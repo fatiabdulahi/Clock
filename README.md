@@ -12,39 +12,10 @@ The project replicates the functionality of the 25 + 5 Clock as specified by fre
 - **Styling**: CSS
 - **Testing**: FreeCodeCamp's test suite (CDN)
 
-## Demo 📸
-
-## Contributing 🤝
-
-Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request. Ensure that your code follows the project's coding standards and guidelines.
-
-
-# mark-down-previewer
-
-## Project Description 📝
-
-> Provide a detailed overview of your project. Explain what it does, why it is useful, and any other relevant information.
-
-This is a drum machine application that allows users to play various drum sounds by clicking on the drum pads or pressing the corresponding keyboard keys.
-
 
 ## Demo 📸
 
-Include a demo or animated GIF of your project. You can use tools like [asciinema](https://asciinema.org/) to record your terminal sessions.
-
-![Demo](demo.png)
-
-
-## Technologies Used 🛠️
-
-List the technologies or tools you used to develop your project. You can also include the libraries or frameworks you used.
-
-Examples:
-
-- HTML
-- CSS
-- JavaScript
-- react
+![Demo](src/images/demo.png)
 
 
 
